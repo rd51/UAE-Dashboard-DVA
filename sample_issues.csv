@@ -1,0 +1,11 @@
+issue_id,issue_type,description,severity
+ISS0001,Format Error,Missing discount percentage in order ORD000005,Low
+ISS0002,Duplicate,Duplicate order ID detected: ORD000010,Low
+ISS0003,Missing Value,Price outlier: 50x normal price,Medium
+ISS0004,Outlier,Invalid date format in order ORD000015,Medium
+ISS0005,Format Error,Stock quantity negative: -50 units,Low
+ISS0006,Duplicate,City name mismatch: Dubayy vs Dubai,Low
+ISS0007,Duplicate,Missing product cost for P0001,Low
+ISS0008,Outlier,Channel mismatch: Shop vs App,Medium
+ISS0009,Duplicate,Quantity outlier: 500 units ordered,Medium
+ISS0010,Outlier,Payment status unknown for ORD000020,Low

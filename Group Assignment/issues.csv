@@ -1,0 +1,1775 @@
+record_identifier,issue_type,issue_detail,action_taken
+P0023,MISSING_VALUE,Missing unit_cost_aed - imputed as 50% of 1346.62,IMPUTED
+P0084,MISSING_VALUE,Missing unit_cost_aed - imputed as 50% of 1571.52,IMPUTED
+ORD000027,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000041,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000049,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000118,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000194,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000200,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000230,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000324,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000330,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000331,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000356,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000394,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000428,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000440,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000520,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000530,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000548,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000593,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000605,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000682,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000736,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000753,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000819,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000834,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000871,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000881,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001089,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001115,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001238,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001247,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001281,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001367,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001437,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001439,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001494,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001535,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001579,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001604,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001637,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001660,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001676,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001679,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001686,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001840,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD001921,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002129,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002243,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002247,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002325,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002337,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002347,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002378,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002401,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002440,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002722,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002857,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD002938,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003009,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003043,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003124,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003135,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003151,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003171,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003223,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003272,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003400,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003415,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003528,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003704,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003725,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003774,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD003801,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004186,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004272,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004295,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004386,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004580,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004676,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004736,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004777,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004884,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004902,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD004909,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD005000,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD005239,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD005651,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD005658,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD006261,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD006284,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD006597,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD007291,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD007427,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD007474,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD007696,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD007799,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD007902,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD008130,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD008142,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD008162,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD008258,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD008353,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD008677,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD008755,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009095,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009405,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009544,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009550,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009688,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009695,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009735,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009905,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009917,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009939,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD009950,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD010008,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD010009,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD010026,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD010070,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD010115,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD010229,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD010443,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD010591,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD011465,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD011699,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD011747,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD011844,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD011918,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD012022,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD012124,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD013027,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD013348,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD014041,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD014271,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD014452,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD014542,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD014593,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD014744,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD014809,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD015449,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD015581,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD015677,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD015778,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD016134,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD016360,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD016487,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD016629,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD017019,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD017072,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD017366,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD018274,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD018870,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD018910,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD019868,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD020108,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD020622,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD020821,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD021305,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD021408,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD021433,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD021829,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD022380,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD022548,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD023019,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD023087,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD023912,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD023991,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD024476,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD026976,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD028225,DUPLICATE_ID,Duplicate order_id - multiple transactions,DROPPED
+ORD000030,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD000093,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD000126,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD000135,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD000168,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD000210,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD000214,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD000241,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD000478,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD000501,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD000512,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD000518,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD000718,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD000745,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD000857,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD000862,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD000891,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD000991,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD001132,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD001274,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD001276,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD001296,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD001339,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD001456,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD001481,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD001534,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD001629,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD001733,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD001781,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD001789,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD001817,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD001841,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD001857,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD001896,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD002043,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD002175,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD002236,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD002272,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD002294,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD002361,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD002383,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD002414,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD002476,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD002513,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD002530,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD002546,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD002810,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD002886,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD002907,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD002910,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD002931,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD002961,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD003123,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD003149,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD003158,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD003343,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD003392,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD003491,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD003564,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD003738,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD003746,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD003875,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD003939,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD003957,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD004011,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD004074,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD004109,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD004182,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD004252,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD004317,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD004362,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD004365,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD004486,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD004562,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD004568,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD004584,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD004607,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD004657,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD004765,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD004918,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD004921,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD004990,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD005109,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD005364,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD005387,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD005514,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD005573,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD005598,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD005728,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD005798,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD005822,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD005886,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD005943,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD006024,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD006030,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD006088,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD006213,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD006221,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD006248,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD006400,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD006424,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD006431,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD006475,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD006511,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD006569,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD006611,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD006624,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD006714,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD006718,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD006811,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD006838,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD007025,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD007041,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD007057,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD007115,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD007143,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD007276,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD007406,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD007545,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD007562,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD007573,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD007817,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD007830,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD007996,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD008072,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD008169,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD008207,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD008266,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD008311,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD008418,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD008471,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD008485,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD008636,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD008698,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD008704,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD008726,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD008732,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD008794,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD008824,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD008855,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD008989,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD009063,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD009064,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD009183,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD009239,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD009287,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD009304,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD009448,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD009466,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD009503,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD009541,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD009559,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD009576,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD009580,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD009644,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD009719,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD009725,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD009730,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD009783,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD009882,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD009887,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD009909,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD009985,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD010136,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD010188,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD010289,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD010419,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD010427,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD010447,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD010526,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD010543,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD010554,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD010593,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD010765,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD010786,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD010842,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD010870,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD010957,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD011035,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD011045,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD011140,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD011232,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD011252,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD011306,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD011425,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD011581,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD011584,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD011653,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD011671,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD011674,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD011744,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD011751,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD011763,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD011813,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD011855,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD011896,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD011954,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD011972,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD012065,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD012078,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD012098,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD012131,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD012135,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD012301,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD012336,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD012371,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD012558,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD012587,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD012592,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD012605,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD012678,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD012758,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD012783,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD012845,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD013023,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD013109,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD013142,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD013157,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD013176,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD013182,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD013203,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD013215,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD013280,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD013283,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD013333,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD013373,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD013526,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD013607,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD013626,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD013695,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD013748,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD014044,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD014103,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD014117,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD014146,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD014288,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD014326,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD014404,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD014518,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD014525,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD014549,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD014840,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD014863,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD014882,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD014950,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD014967,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD015020,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD015027,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD015071,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD015117,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD015143,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD015186,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD015254,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD015264,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD015283,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD015291,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD015315,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD015399,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD015447,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD015475,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD015511,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD015582,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD015633,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD015637,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD015649,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD015712,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD015762,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD015815,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD015872,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD015874,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD015924,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD015955,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD015963,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD015972,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD015976,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD015995,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD015996,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD016016,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD016055,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD016094,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD016400,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD016407,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD016458,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD016466,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD016467,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD016562,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD016608,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD016773,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD017087,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD017130,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD017207,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD017228,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD017238,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD017421,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD017449,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD017506,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD017525,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD017573,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD017760,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD017805,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD017959,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD018010,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD018048,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD018145,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD018367,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD018377,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD018399,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD018401,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD018489,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD018495,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD018575,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD018599,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD018614,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD018969,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD018976,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD018987,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD019020,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD019079,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD019113,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD019224,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD019248,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD019309,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD019366,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD019433,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD019657,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD019695,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD019933,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD020055,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD020155,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD020206,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD020207,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD020252,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD020318,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD020384,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD020415,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD020450,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD020473,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD020544,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD020551,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD020559,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD020774,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD020776,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD020779,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD020854,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD020930,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD020938,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD020960,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD021037,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD021045,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD021048,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD021061,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD021106,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD021139,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD021141,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD021211,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD021251,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD021279,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD021478,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD021526,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD021647,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD021725,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD021741,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD021879,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD021961,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD022041,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD022170,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD022172,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD022282,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD022335,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD022344,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD022426,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD022436,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD022442,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD022501,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD022595,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD022707,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD022712,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD022749,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD022757,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD022784,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD022792,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD022843,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD022896,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD023003,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD023009,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD023115,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD023173,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD023193,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD023220,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD023487,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD023549,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD023583,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD023657,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD023666,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD023729,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD023816,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD023918,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD023931,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD023935,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD024063,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD024114,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD024279,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD024302,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD024369,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD024454,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD024492,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD024508,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD024590,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD024657,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD024707,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD024857,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD024881,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD025044,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD025117,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD025184,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD025193,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD025290,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD025293,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD025297,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD025394,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD025412,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD025475,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD025650,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD025676,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD025709,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD025910,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD025925,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD025948,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD025983,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD026095,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD026100,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD026112,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD026276,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD026292,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD026308,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD026385,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD026395,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD026418,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD026554,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD026569,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD026685,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD026702,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD026736,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD026831,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD027049,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD027088,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD027139,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD027215,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD027272,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD027549,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD027568,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD027593,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD027606,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD027626,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD027629,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD028017,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD028132,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD028491,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD028527,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD028552,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD028684,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD028726,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD028730,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD028742,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD028771,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD028887,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD028962,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD028976,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD029081,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD029186,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD029201,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD029251,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD029254,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD029271,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD029272,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD029341,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD029353,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD029494,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD029502,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD029507,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD029534,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD029564,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD029571,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD029593,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD029604,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD029612,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD029738,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD029757,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD029786,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD029794,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD029868,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD029884,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD029915,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD030012,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD030013,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD030045,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD030085,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD030198,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD030230,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD030342,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD030344,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD030348,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD030421,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD030447,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD030564,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD030617,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD030620,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD030643,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD030669,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD030796,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD030807,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD030850,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD030885,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD030892,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD031009,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD031073,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD031150,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD031306,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD031326,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD031495,INVALID_TIMESTAMP,Corrupted timestamp: 2024-02-30 25:99:99,DROPPED
+ORD031565,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD031576,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD032041,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD032102,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD032171,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD032172,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD032319,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD032347,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD032370,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD032371,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD032384,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD032388,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD032400,INVALID_TIMESTAMP,Corrupted timestamp: invalid,DROPPED
+ORD032469,INVALID_TIMESTAMP,Corrupted timestamp: 99/99/9999,DROPPED
+ORD032471,INVALID_TIMESTAMP,Corrupted timestamp: not_a_time,DROPPED
+ORD032480,INVALID_TIMESTAMP,Corrupted timestamp: 2024-13-45,DROPPED
+ORD000036,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000188,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000257,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000339,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000346,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000367,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000415,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000461,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000493,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000498,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000500,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000551,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000553,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000556,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000596,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000616,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000631,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000638,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000657,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000688,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000691,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000700,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000729,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000730,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000827,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000863,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD000982,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001021,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001051,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001073,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001117,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001206,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001216,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001221,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001311,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001347,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001352,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001375,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001379,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001470,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001474,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001477,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001492,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001505,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001625,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001626,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001653,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001655,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001659,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001666,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001692,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001699,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001702,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001719,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001740,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001768,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001788,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001800,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001852,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001901,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002010,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002020,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002044,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002158,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002234,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002307,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002320,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002338,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002346,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002351,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002362,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001921,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002449,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002479,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002482,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002544,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002554,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002564,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002608,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002639,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002671,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002680,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002778,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002822,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002862,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002880,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002883,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002946,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002947,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003067,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003098,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003100,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003109,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003153,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003168,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003182,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003268,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003348,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003369,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003381,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003446,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003449,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003452,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003464,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003473,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003507,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003555,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003557,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003627,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003715,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003740,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003864,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003880,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003906,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003997,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004000,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004014,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004091,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004121,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004255,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004278,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004290,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004385,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004415,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004416,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004463,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004470,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004490,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD002722,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004531,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004643,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004651,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004683,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004692,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004701,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004785,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004935,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD004960,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005017,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005074,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005085,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005137,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005169,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005172,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005194,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005231,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005270,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005274,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005335,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005380,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005381,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005497,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005518,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005523,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005580,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005621,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005629,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005672,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005678,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005682,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005706,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005755,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005799,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005809,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005817,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005842,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005848,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005865,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005867,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005883,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005932,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD005952,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006023,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006043,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006103,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006106,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006109,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006170,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006254,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006264,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006271,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006283,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006287,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006304,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006311,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006315,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006316,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006326,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006331,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006355,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006357,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006370,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006391,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006399,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006415,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006459,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006507,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006517,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006559,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006578,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006620,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006676,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006748,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006787,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006817,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006895,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006920,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006941,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006973,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD006990,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007007,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007060,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007120,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007136,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007147,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007148,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007179,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007257,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007258,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007298,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007332,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007372,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007379,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007394,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007405,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007420,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007551,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007553,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007615,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007649,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007658,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007691,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007702,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007755,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007779,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007845,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007912,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007924,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007927,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007946,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007957,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD007992,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008008,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008035,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008067,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008081,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008141,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008146,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008197,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008204,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008252,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008300,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008319,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008334,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008382,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008398,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008521,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008531,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008625,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008629,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008647,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008690,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008749,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008776,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008810,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008815,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD008849,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009004,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009040,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009124,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009133,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009199,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009201,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009224,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009252,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009296,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009303,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009305,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009306,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009367,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009383,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009393,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009526,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009549,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009567,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009600,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009602,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009721,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009748,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009757,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009848,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009918,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009959,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD009990,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010005,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010042,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010055,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010063,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010069,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010131,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010190,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010293,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010312,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010345,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010350,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010538,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010552,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010586,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010605,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010647,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010676,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010686,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010732,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010834,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010871,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010947,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010962,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010964,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD010992,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011036,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011054,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011115,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011150,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011276,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011289,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011336,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011337,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011347,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011358,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011398,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011403,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011427,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011429,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011435,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011471,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011503,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011507,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011521,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011574,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011648,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011656,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011667,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011725,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011781,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011796,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011797,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011849,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011888,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011915,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011933,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011941,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011943,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD011955,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012069,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012075,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012087,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012151,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012255,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012256,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012308,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012339,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012443,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012451,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012470,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012478,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012496,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012498,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012504,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012518,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012519,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012567,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012568,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012596,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012653,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012657,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012695,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012727,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012760,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012768,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012776,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012821,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012861,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012890,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012894,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012908,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD012974,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013035,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013038,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013040,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013062,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013069,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013077,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013131,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013204,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013235,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013251,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013271,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013288,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013299,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013401,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013551,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013598,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013615,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013711,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013804,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013840,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD013980,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014002,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014004,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014029,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014182,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014261,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014303,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014304,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014375,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014462,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014484,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014485,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014503,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014582,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014652,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014711,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014734,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014756,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014786,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014829,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014872,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014879,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014912,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014969,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014977,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD014982,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015022,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015047,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015051,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015168,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015205,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015217,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015284,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015329,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015347,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015349,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015373,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015397,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015423,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015479,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015530,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015544,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015579,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015609,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015646,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015708,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015716,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015720,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015749,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015795,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015799,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015805,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD015831,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016025,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016049,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016058,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016080,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016115,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016136,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016162,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016180,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016258,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016261,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016330,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016340,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016348,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016379,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016401,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016411,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016424,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016441,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016449,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016451,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016480,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016492,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016496,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016568,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016598,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016618,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016722,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016756,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016761,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016820,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD016850,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017021,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017079,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017090,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017093,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017133,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017137,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017153,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017223,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017268,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017275,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017285,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017328,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017365,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017400,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017499,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017518,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017526,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017534,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017561,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017629,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017683,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017688,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017744,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017747,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017783,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017788,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017839,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017885,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017890,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017891,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017895,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017899,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD017991,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018008,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018043,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018066,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018067,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018090,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018149,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018211,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018244,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018294,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018306,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018368,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018448,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018476,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018482,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018486,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018507,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018517,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018518,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018554,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018604,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018644,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018695,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018737,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018756,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018758,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018795,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018823,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018832,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018906,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD018914,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019001,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019027,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019073,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019089,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019346,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD003801,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019422,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019426,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019443,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019507,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019606,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019620,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019644,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019660,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019697,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019785,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019855,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019904,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019935,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD019970,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020014,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020017,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020133,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020208,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020241,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020255,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020321,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020365,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020399,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020465,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020469,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020514,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020566,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020573,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020595,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020598,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020605,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020643,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020750,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020826,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020832,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020836,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020842,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020863,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020864,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020889,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020904,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020934,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020937,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020952,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020971,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020983,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD020993,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021071,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021104,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021148,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021165,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021167,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021181,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021273,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021274,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021310,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021379,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021419,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021496,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021530,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021538,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021567,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021569,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021637,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021643,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021652,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021656,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021660,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021663,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021681,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021683,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021686,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021690,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021692,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021705,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021731,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021822,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021829,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021863,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021901,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021934,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021938,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD021968,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022011,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022030,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022052,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022079,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022097,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022157,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022162,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022181,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022232,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022276,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022322,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022326,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022331,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022340,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022363,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022366,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022369,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022381,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022393,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022407,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022420,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022456,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022487,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022518,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022578,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022587,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022644,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022657,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022678,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022814,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022824,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022835,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022884,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD022935,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023076,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023086,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023130,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023157,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023158,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023170,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023178,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023244,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023253,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023264,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023269,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023356,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023454,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023531,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023555,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023557,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023579,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023580,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023586,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023641,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023670,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023684,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023734,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023900,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023919,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD023943,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024092,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024093,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024108,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024127,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024140,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024169,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024263,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024312,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024348,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024372,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024383,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024386,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024457,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024496,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024540,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024619,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024683,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024689,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024692,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024727,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024734,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024750,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024850,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024962,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD024968,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025027,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025039,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025045,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025053,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025077,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025108,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025114,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025118,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025425,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025441,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025470,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025552,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025601,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025626,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025653,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025681,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025714,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025737,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025786,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025795,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025832,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025845,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025852,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025879,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025882,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025922,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025944,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025969,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD025977,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026019,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026046,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026069,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026084,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026092,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026146,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026212,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026241,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026264,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026277,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026299,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026317,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026394,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026420,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026436,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026486,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026508,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026541,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026547,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026548,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026596,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026734,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026739,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026746,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026865,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026870,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026883,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026911,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD026989,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027026,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027032,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027059,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027091,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027104,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027107,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027115,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027124,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027142,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027153,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027227,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027233,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027317,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027356,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027386,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027397,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027429,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027442,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027444,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027445,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027482,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027499,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027524,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027572,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027599,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027608,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027635,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027657,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027755,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027814,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027825,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027826,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027875,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027885,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD027886,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028156,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028222,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028250,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028266,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028278,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028314,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028377,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028382,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028384,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028414,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028417,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028421,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028428,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028435,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028440,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028460,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028472,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028481,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028529,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028562,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028603,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028640,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028696,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028708,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028732,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028734,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028839,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028846,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028878,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028891,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028933,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028974,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028977,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028984,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028991,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD028997,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029035,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029036,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029101,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029207,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029291,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029313,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029316,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029343,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029405,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029430,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029466,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029521,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029548,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029554,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029583,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029638,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029716,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029741,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029790,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029845,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029964,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029990,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD029994,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030007,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030026,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030041,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030047,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030103,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030105,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030113,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030162,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030194,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030265,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030290,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030313,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030352,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030353,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030356,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030362,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030420,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030428,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030449,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030494,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030591,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030598,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030610,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030618,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030758,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030851,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030854,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030887,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030895,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030906,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030932,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030944,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD030984,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031020,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031027,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031056,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031079,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031096,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031124,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031140,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031170,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031213,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031337,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031345,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031350,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031361,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031373,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031377,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031383,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031385,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031392,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031395,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031412,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031440,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031462,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031468,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031482,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031483,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031541,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031549,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031550,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031720,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031804,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031843,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031845,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031867,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031917,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031948,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031973,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031975,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031985,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD031986,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032002,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032016,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032065,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032139,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032142,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032158,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032232,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032259,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032317,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032437,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032477,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032487,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD032491,MISSING_VALUE,Missing discount_pct,IMPUTED
+ORD001229,OUTLIER_VALUE,Price 13909.20 AED exceeds maximum 10000,CAPPED
+ORD001551,OUTLIER_VALUE,Price 28246.90 AED exceeds maximum 10000,CAPPED
+ORD001594,OUTLIER_VALUE,Price 18360.00 AED exceeds maximum 10000,CAPPED
+ORD001720,OUTLIER_VALUE,Price 40957.05 AED exceeds maximum 10000,CAPPED
+ORD001763,OUTLIER_VALUE,Price 47827.20 AED exceeds maximum 10000,CAPPED
+ORD001854,OUTLIER_VALUE,Price 28716.50 AED exceeds maximum 10000,CAPPED
+ORD002010,OUTLIER_VALUE,Price 33967.50 AED exceeds maximum 10000,CAPPED
+ORD003592,OUTLIER_VALUE,Price 13354.65 AED exceeds maximum 10000,CAPPED
+ORD004605,OUTLIER_VALUE,Price 34867.80 AED exceeds maximum 10000,CAPPED
+ORD005498,OUTLIER_VALUE,Price 11813.60 AED exceeds maximum 10000,CAPPED
+ORD006085,OUTLIER_VALUE,Price 20348.10 AED exceeds maximum 10000,CAPPED
+ORD006087,OUTLIER_VALUE,Price 31024.90 AED exceeds maximum 10000,CAPPED
+ORD006755,OUTLIER_VALUE,Price 26164.65 AED exceeds maximum 10000,CAPPED
+ORD007123,OUTLIER_VALUE,Price 27655.90 AED exceeds maximum 10000,CAPPED
+ORD007172,OUTLIER_VALUE,Price 17923.00 AED exceeds maximum 10000,CAPPED
+ORD007631,OUTLIER_VALUE,Price 49231.35 AED exceeds maximum 10000,CAPPED
+ORD008511,OUTLIER_VALUE,Price 10778.80 AED exceeds maximum 10000,CAPPED
+ORD008716,OUTLIER_VALUE,Price 24335.50 AED exceeds maximum 10000,CAPPED
+ORD008931,OUTLIER_VALUE,Price 19641.20 AED exceeds maximum 10000,CAPPED
+ORD009087,OUTLIER_VALUE,Price 35765.20 AED exceeds maximum 10000,CAPPED
+ORD009090,OUTLIER_VALUE,Price 40076.25 AED exceeds maximum 10000,CAPPED
+ORD009462,OUTLIER_VALUE,Price 33356.80 AED exceeds maximum 10000,CAPPED
+ORD009722,OUTLIER_VALUE,Price 16429.00 AED exceeds maximum 10000,CAPPED
+ORD009929,OUTLIER_VALUE,Price 16814.40 AED exceeds maximum 10000,CAPPED
+ORD010197,OUTLIER_VALUE,Price 40474.90 AED exceeds maximum 10000,CAPPED
+ORD010489,OUTLIER_VALUE,Price 58243.35 AED exceeds maximum 10000,CAPPED
+ORD010541,OUTLIER_VALUE,Price 11209.60 AED exceeds maximum 10000,CAPPED
+ORD010559,OUTLIER_VALUE,Price 46467.75 AED exceeds maximum 10000,CAPPED
+ORD010575,OUTLIER_VALUE,Price 26190.90 AED exceeds maximum 10000,CAPPED
+ORD010939,OUTLIER_VALUE,Price 27843.30 AED exceeds maximum 10000,CAPPED
+ORD011601,OUTLIER_VALUE,Price 27413.10 AED exceeds maximum 10000,CAPPED
+ORD011661,OUTLIER_VALUE,Price 33115.20 AED exceeds maximum 10000,CAPPED
+ORD011749,OUTLIER_VALUE,Price 10416.20 AED exceeds maximum 10000,CAPPED
+ORD012093,OUTLIER_VALUE,Price 19453.05 AED exceeds maximum 10000,CAPPED
+ORD012585,OUTLIER_VALUE,Price 50651.85 AED exceeds maximum 10000,CAPPED
+ORD012914,OUTLIER_VALUE,Price 30978.50 AED exceeds maximum 10000,CAPPED
+ORD013192,OUTLIER_VALUE,Price 34613.10 AED exceeds maximum 10000,CAPPED
+ORD013517,OUTLIER_VALUE,Price 59537.85 AED exceeds maximum 10000,CAPPED
+ORD014029,OUTLIER_VALUE,Price 45870.60 AED exceeds maximum 10000,CAPPED
+ORD014488,OUTLIER_VALUE,Price 34194.30 AED exceeds maximum 10000,CAPPED
+ORD014650,OUTLIER_VALUE,Price 10084.80 AED exceeds maximum 10000,CAPPED
+ORD016136,OUTLIER_VALUE,Price 40285.10 AED exceeds maximum 10000,CAPPED
+ORD017099,OUTLIER_VALUE,Price 11209.60 AED exceeds maximum 10000,CAPPED
+ORD017447,OUTLIER_VALUE,Price 14615.80 AED exceeds maximum 10000,CAPPED
+ORD018180,OUTLIER_VALUE,Price 28387.70 AED exceeds maximum 10000,CAPPED
+ORD019135,OUTLIER_VALUE,Price 21538.00 AED exceeds maximum 10000,CAPPED
+ORD020144,OUTLIER_VALUE,Price 20206.95 AED exceeds maximum 10000,CAPPED
+ORD020218,OUTLIER_VALUE,Price 35581.50 AED exceeds maximum 10000,CAPPED
+ORD020841,OUTLIER_VALUE,Price 15898.65 AED exceeds maximum 10000,CAPPED
+ORD021534,OUTLIER_VALUE,Price 59429.10 AED exceeds maximum 10000,CAPPED
+ORD021744,OUTLIER_VALUE,Price 41483.85 AED exceeds maximum 10000,CAPPED
+ORD022676,OUTLIER_VALUE,Price 18181.60 AED exceeds maximum 10000,CAPPED
+ORD022709,OUTLIER_VALUE,Price 45077.70 AED exceeds maximum 10000,CAPPED
+ORD023226,OUTLIER_VALUE,Price 42581.55 AED exceeds maximum 10000,CAPPED
+ORD024223,OUTLIER_VALUE,Price 22403.85 AED exceeds maximum 10000,CAPPED
+ORD024471,OUTLIER_VALUE,Price 13733.10 AED exceeds maximum 10000,CAPPED
+ORD024638,OUTLIER_VALUE,Price 40036.60 AED exceeds maximum 10000,CAPPED
+ORD024996,OUTLIER_VALUE,Price 22601.00 AED exceeds maximum 10000,CAPPED
+ORD025036,OUTLIER_VALUE,Price 18831.40 AED exceeds maximum 10000,CAPPED
+ORD025405,OUTLIER_VALUE,Price 13821.60 AED exceeds maximum 10000,CAPPED
+ORD025437,OUTLIER_VALUE,Price 36774.60 AED exceeds maximum 10000,CAPPED
+ORD025671,OUTLIER_VALUE,Price 27010.70 AED exceeds maximum 10000,CAPPED
+ORD026262,OUTLIER_VALUE,Price 21809.80 AED exceeds maximum 10000,CAPPED
+ORD026708,OUTLIER_VALUE,Price 11198.90 AED exceeds maximum 10000,CAPPED
+ORD026802,OUTLIER_VALUE,Price 12143.85 AED exceeds maximum 10000,CAPPED
+ORD027060,OUTLIER_VALUE,Price 37814.10 AED exceeds maximum 10000,CAPPED
+ORD027080,OUTLIER_VALUE,Price 36544.35 AED exceeds maximum 10000,CAPPED
+ORD027883,OUTLIER_VALUE,Price 60639.00 AED exceeds maximum 10000,CAPPED
+ORD028271,OUTLIER_VALUE,Price 50707.65 AED exceeds maximum 10000,CAPPED
+ORD028417,OUTLIER_VALUE,Price 24638.40 AED exceeds maximum 10000,CAPPED
+ORD029313,OUTLIER_VALUE,Price 23530.40 AED exceeds maximum 10000,CAPPED
+ORD029706,OUTLIER_VALUE,Price 41119.65 AED exceeds maximum 10000,CAPPED
+ORD029972,OUTLIER_VALUE,Price 23070.75 AED exceeds maximum 10000,CAPPED
+ORD030122,OUTLIER_VALUE,Price 31636.80 AED exceeds maximum 10000,CAPPED
+ORD030170,OUTLIER_VALUE,Price 21607.00 AED exceeds maximum 10000,CAPPED
+ORD030285,OUTLIER_VALUE,Price 18831.40 AED exceeds maximum 10000,CAPPED
+ORD030532,OUTLIER_VALUE,Price 46467.75 AED exceeds maximum 10000,CAPPED
+ORD031000,OUTLIER_VALUE,Price 22820.40 AED exceeds maximum 10000,CAPPED
+ORD031289,OUTLIER_VALUE,Price 22257.75 AED exceeds maximum 10000,CAPPED
+ORD031430,OUTLIER_VALUE,Price 15137.50 AED exceeds maximum 10000,CAPPED
+ORD031944,OUTLIER_VALUE,Price 30924.45 AED exceeds maximum 10000,CAPPED
+ORD032274,OUTLIER_VALUE,Price 24301.60 AED exceeds maximum 10000,CAPPED
+ORD032289,OUTLIER_VALUE,Price 25240.80 AED exceeds maximum 10000,CAPPED
+2024-12-07_P0187,IMPOSSIBLE_VALUE,Negative stock -15 corrected to 0,CORRECTED
+2024-12-05_P0280,IMPOSSIBLE_VALUE,Negative stock -15 corrected to 0,CORRECTED
+2024-11-30_P0157,IMPOSSIBLE_VALUE,Negative stock -15 corrected to 0,CORRECTED
+2024-11-28_P0022,IMPOSSIBLE_VALUE,Negative stock -15 corrected to 0,CORRECTED
+2024-11-23_P0208,IMPOSSIBLE_VALUE,Negative stock -15 corrected to 0,CORRECTED
+2024-11-21_P0241,IMPOSSIBLE_VALUE,Negative stock -15 corrected to 0,CORRECTED
+2024-11-18_P0196,IMPOSSIBLE_VALUE,Negative stock -15 corrected to 0,CORRECTED
+2024-11-15_P0175,IMPOSSIBLE_VALUE,Negative stock -15 corrected to 0,CORRECTED
+2024-11-12_P0202,IMPOSSIBLE_VALUE,Negative stock -15 corrected to 0,CORRECTED
+2024-11-11_P0175,IMPOSSIBLE_VALUE,Negative stock -15 corrected to 0,CORRECTED
+2024-12-03_P0010,OUTLIER_VALUE,Extreme stock 9999 capped to 500,CAPPED
+2024-12-02_P0295,OUTLIER_VALUE,Extreme stock 9999 capped to 500,CAPPED
+2024-12-01_P0250,OUTLIER_VALUE,Extreme stock 9999 capped to 500,CAPPED
+2024-12-01_P0268,OUTLIER_VALUE,Extreme stock 9999 capped to 500,CAPPED
+2024-11-27_P0115,OUTLIER_VALUE,Extreme stock 9999 capped to 500,CAPPED
+2024-11-25_P0139,OUTLIER_VALUE,Extreme stock 9999 capped to 500,CAPPED
+2024-11-23_P0103,OUTLIER_VALUE,Extreme stock 9999 capped to 500,CAPPED
+2024-11-21_P0088,OUTLIER_VALUE,Extreme stock 9999 capped to 500,CAPPED
+2024-11-18_P0151,OUTLIER_VALUE,Extreme stock 9999 capped to 500,CAPPED
+2024-11-15_P0208,OUTLIER_VALUE,Extreme stock 9999 capped to 500,CAPPED

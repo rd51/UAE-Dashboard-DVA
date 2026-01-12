@@ -1,0 +1,301 @@
+product_id,category,brand,base_price_aed,unit_cost_aed,tax_rate,launch_flag
+P0001,Fashion,Samsung,3016.2,1332.74,0.05,New
+P0002,Fashion,Noon,1737.69,809.05,0.05,Regular
+P0003,Electronics,Zara,845.35,476.34,0.05,Regular
+P0004,Beauty,Samsung,3085.23,1625.25,0.05,Regular
+P0005,Grocery,Sony,458.84,232.95,0.05,Regular
+P0006,Beauty,Samsung,2968.93,2054.31,0.05,Regular
+P0007,Beauty,Carrefour,2524.08,1446.82,0.05,Regular
+P0008,Electronics,Carrefour,961.59,407.65,0.05,Regular
+P0009,Fashion,Puma,1161.89,591.92,0.05,Regular
+P0010,Grocery,Carrefour,1117.91,664.5,0.05,Regular
+P0011,Home & Kitchen,Zara,2966.51,1524.3,0.05,Regular
+P0012,Grocery,Carrefour,1347.13,561.46,0.05,Regular
+P0013,Sports,Puma,1120.96,765.47,0.05,Regular
+P0014,Sports,Adidas,2671.75,1801.73,0.05,Regular
+P0015,Beauty,Nike,1036.51,496.3,0.05,Regular
+P0016,Books,Sony,927.28,512.65,0.05,New
+P0017,Electronics,Apple,661.37,399.56,0.05,Regular
+P0018,Books,Puma,2433.55,1156.97,0.05,Regular
+P0019,Electronics,Carrefour,2932.89,1645.62,0.05,Regular
+P0020,Sports,Apple,1224.0,490.79,0.05,Regular
+P0021,Beauty,Zara,3097.85,1338.03,0.05,Regular
+P0022,Grocery,Nike,1545.66,1060.4,0.05,Regular
+P0023,Electronics,Noon,1346.62,673.31,0.05,Regular
+P0024,Beauty,Adidas,281.7,192.71,0.05,New
+P0025,Toys,Apple,3961.94,1734.25,0.05,Regular
+P0026,Home & Kitchen,LG,2160.7,1489.39,0.05,Regular
+P0027,Grocery,Lulu,1296.87,771.59,0.05,Regular
+P0028,Toys,Apple,1041.62,423.22,0.05,Regular
+P0029,Grocery,Samsung,333.97,156.53,0.05,Regular
+P0030,Sports,Apple,2106.62,1149.42,0.05,Regular
+P0031,Toys,Adidas,3188.48,1457.53,0.05,New
+P0032,Books,Sony,1744.31,1079.24,0.05,Regular
+P0033,Fashion,Samsung,1660.49,1093.44,0.05,Regular
+P0034,Grocery,Zara,1844.45,891.91,0.05,Regular
+P0035,Fashion,H&M,3282.09,1409.24,0.05,Regular
+P0036,Electronics,Apple,3755.47,1689.56,0.05,Regular
+P0037,Grocery,Puma,3659.77,1466.27,0.05,Regular
+P0038,Toys,LG,1742.03,1217.03,0.05,Regular
+P0039,Toys,Nike,809.59,338.04,0.05,Regular
+P0040,Electronics,Lulu,1304.42,708.35,0.05,Regular
+P0041,Home & Kitchen,Samsung,3893.12,1774.28,0.05,Regular
+P0042,Grocery,Puma,529.55,250.94,0.05,Regular
+P0043,Fashion,Puma,2679.49,1326.11,0.05,Regular
+P0044,Sports,Adidas,1112.46,660.41,0.05,Regular
+P0045,Fashion,Samsung,1883.14,1315.99,0.05,New
+P0046,Grocery,Zara,1110.8,737.86,0.05,Regular
+P0047,Sports,LG,680.99,416.13,0.05,Regular
+P0048,Electronics,Carrefour,3318.42,1987.79,0.05,Regular
+P0049,Home & Kitchen,LG,511.71,289.61,0.05,Regular
+P0050,Grocery,Lulu,1421.52,932.34,0.05,Regular
+P0051,Beauty,Samsung,419.19,202.47,0.05,New
+P0052,Home & Kitchen,Carrefour,3969.19,2113.79,0.05,Regular
+P0053,Electronics,Apple,350.98,235.57,0.05,Regular
+P0054,Sports,Noon,2260.1,932.4,0.05,Regular
+P0055,Electronics,Sony,890.31,383.58,0.05,Regular
+P0056,Books,Noon,3047.91,1435.63,0.05,Regular
+P0057,Home & Kitchen,Puma,149.15,74.52,0.05,Regular
+P0058,Grocery,LG,686.79,353.53,0.05,New
+P0059,Toys,Adidas,848.29,428.3,0.05,Regular
+P0060,Grocery,Adidas,144.66,72.11,0.05,Regular
+P0061,Beauty,Sony,2615.93,1816.36,0.05,Regular
+P0062,Electronics,Apple,3558.15,2043.01,0.05,Regular
+P0063,Electronics,Apple,2436.29,1549.31,0.05,Regular
+P0064,Fashion,Puma,3648.02,1507.78,0.05,Regular
+P0065,Grocery,Sony,1775.19,1200.44,0.05,Regular
+P0066,Fashion,Lulu,3650.19,2190.36,0.05,Regular
+P0067,Beauty,Zara,559.15,381.4,0.05,Regular
+P0068,Home & Kitchen,Noon,2326.42,1512.45,0.05,Regular
+P0069,Grocery,Puma,3193.04,1585.9,0.05,Regular
+P0070,Grocery,Zara,1942.74,1241.04,0.05,Regular
+P0071,Fashion,LG,2111.81,1057.08,0.05,Regular
+P0072,Grocery,Carrefour,1291.68,573.77,0.05,New
+P0073,Toys,Noon,3448.95,1808.4,0.05,Regular
+P0074,Grocery,Lulu,2835.42,1341.71,0.05,Regular
+P0075,Electronics,Apple,3163.68,2028.66,0.05,Regular
+P0076,Toys,Samsung,2279.62,994.84,0.05,New
+P0077,Toys,Carrefour,2174.53,1076.8,0.05,Regular
+P0078,Toys,Noon,3310.03,1747.77,0.05,Regular
+P0079,Toys,Nike,3024.62,1445.03,0.05,Regular
+P0080,Beauty,Zara,1988.39,1057.75,0.05,Regular
+P0081,Grocery,LG,1393.39,591.04,0.05,Regular
+P0082,Books,Lulu,661.22,346.78,0.05,Regular
+P0083,Toys,Puma,299.06,154.57,0.05,Regular
+P0084,Electronics,Noon,1571.52,785.76,0.05,Regular
+P0085,Books,Puma,2202.88,1409.76,0.05,Regular
+P0086,Toys,Adidas,1141.74,589.89,0.05,Regular
+P0087,Books,Lulu,710.18,311.26,0.05,Regular
+P0088,Electronics,Puma,2417.57,1027.91,0.05,Regular
+P0089,Toys,Nike,251.14,116.4,0.05,Regular
+P0090,Books,LG,3058.04,1454.65,0.05,New
+P0091,Electronics,Lulu,2207.68,1114.85,0.05,Regular
+P0092,Electronics,Samsung,3848.45,1562.91,0.05,Regular
+P0093,Home & Kitchen,H&M,2727.84,1269.51,0.05,Regular
+P0094,Sports,Nike,2473.57,1522.5,0.05,Regular
+P0095,Home & Kitchen,LG,482.39,238.1,0.05,Regular
+P0096,Books,Puma,3815.88,2204.16,0.05,Regular
+P0097,Grocery,Apple,2838.77,1718.24,0.05,Regular
+P0098,Electronics,Sony,2180.98,917.51,0.05,Regular
+P0099,Electronics,Puma,3339.32,2298.24,0.05,Regular
+P0100,Toys,Lulu,661.96,368.4,0.05,Regular
+P0101,Toys,H&M,1792.3,861.23,0.05,Regular
+P0102,Fashion,LG,3576.52,1929.22,0.05,Regular
+P0103,Books,Sony,164.8,74.91,0.05,Regular
+P0104,Beauty,Sony,1168.63,776.01,0.05,Regular
+P0105,Grocery,Apple,1015.42,575.29,0.05,Regular
+P0106,Toys,Carrefour,2897.37,1173.94,0.05,Regular
+P0107,Books,Lulu,1023.22,522.56,0.05,Regular
+P0108,Sports,Puma,4036.53,2040.64,0.05,Regular
+P0109,Beauty,LG,972.15,480.89,0.05,Regular
+P0110,Home & Kitchen,Adidas,915.54,565.23,0.05,Regular
+P0111,Beauty,Apple,3380.51,1718.19,0.05,Regular
+P0112,Home & Kitchen,LG,232.06,113.16,0.05,Regular
+P0113,Toys,Apple,3540.88,1914.98,0.05,Regular
+P0114,Home & Kitchen,Samsung,1059.91,460.24,0.05,New
+P0115,Toys,Apple,2358.08,1050.57,0.05,Regular
+P0116,Beauty,Apple,4025.67,2533.49,0.05,Regular
+P0117,Grocery,Zara,1571.51,768.79,0.05,Regular
+P0118,Books,LG,2324.52,1599.35,0.05,New
+P0119,Grocery,Carrefour,894.1,399.77,0.05,Regular
+P0120,Fashion,Nike,60.7,35.09,0.05,Regular
+P0121,Grocery,LG,2877.82,1543.11,0.05,Regular
+P0122,Beauty,Carrefour,2409.16,1106.64,0.05,New
+P0123,Grocery,Carrefour,645.96,285.95,0.05,New
+P0124,Beauty,Noon,3045.83,1482.05,0.05,New
+P0125,Beauty,Lulu,1660.03,932.93,0.05,Regular
+P0126,Electronics,Puma,2988.14,1218.44,0.05,Regular
+P0127,Electronics,Carrefour,3335.68,2097.92,0.05,Regular
+P0128,Toys,LG,775.96,458.15,0.05,Regular
+P0129,Fashion,H&M,1441.84,866.6,0.05,Regular
+P0130,Sports,Puma,2824.69,1930.84,0.05,Regular
+P0131,Electronics,H&M,402.24,174.88,0.05,Regular
+P0132,Electronics,Carrefour,3527.47,1468.35,0.05,Regular
+P0133,Toys,Carrefour,1818.16,872.93,0.05,New
+P0134,Beauty,H&M,3573.39,1460.3,0.05,Regular
+P0135,Grocery,Lulu,683.51,386.64,0.05,New
+P0136,Fashion,H&M,3838.24,1712.59,0.05,Regular
+P0137,Beauty,Zara,2871.65,1564.33,0.05,Regular
+P0138,Toys,Zara,628.57,364.45,0.05,Regular
+P0139,Home & Kitchen,Apple,1154.99,605.77,0.05,Regular
+P0140,Beauty,Samsung,1181.36,680.56,0.05,Regular
+P0141,Toys,Nike,1836.19,917.6,0.05,Regular
+P0142,Books,H&M,3781.41,2625.18,0.05,Regular
+P0143,Books,Adidas,3474.05,1721.23,0.05,Regular
+P0144,Books,Puma,4003.66,2384.6,0.05,Regular
+P0145,Electronics,Nike,2059.16,1360.92,0.05,Regular
+P0146,Toys,Apple,2153.8,1328.32,0.05,Regular
+P0147,Home & Kitchen,Apple,1927.96,967.0,0.05,Regular
+P0148,Fashion,Sony,3459.37,1778.13,0.05,Regular
+P0149,Toys,Zara,193.6,114.1,0.05,Regular
+P0150,Grocery,Lulu,411.52,258.48,0.05,Regular
+P0151,Fashion,H&M,715.46,292.4,0.05,Regular
+P0152,Electronics,LG,1483.85,702.25,0.05,Regular
+P0153,Home & Kitchen,Nike,750.28,386.22,0.05,Regular
+P0154,Toys,Noon,622.47,296.42,0.05,Regular
+P0155,Electronics,H&M,3654.84,1635.15,0.05,Regular
+P0156,Sports,Noon,1246.62,756.82,0.05,Regular
+P0157,Beauty,Adidas,4047.49,1748.5,0.05,Regular
+P0158,Sports,Noon,1233.49,501.51,0.05,Regular
+P0159,Books,LG,82.39,52.19,0.05,Regular
+P0160,Toys,LG,3152.96,2019.72,0.05,Regular
+P0161,Grocery,Noon,1052.51,663.34,0.05,Regular
+P0162,Home & Kitchen,Carrefour,438.66,180.65,0.05,Regular
+P0163,Electronics,Noon,1509.44,1015.68,0.05,Regular
+P0164,Books,Nike,853.18,565.61,0.05,Regular
+P0165,Beauty,Nike,1077.88,586.96,0.05,Regular
+P0166,Sports,Apple,1923.33,1204.48,0.05,Regular
+P0167,Books,Zara,1513.1,611.56,0.05,Regular
+P0168,Toys,Sony,2741.31,1577.26,0.05,Regular
+P0169,Sports,Apple,2749.35,1610.75,0.05,Regular
+P0170,Sports,Noon,935.47,605.4,0.05,Regular
+P0171,Beauty,Carrefour,1683.18,1151.09,0.05,Regular
+P0172,Toys,Apple,438.77,193.37,0.05,Regular
+P0173,Books,Noon,3019.08,1583.4,0.05,New
+P0174,Toys,Noon,1682.46,689.5,0.05,Regular
+P0175,Toys,H&M,3852.22,1655.71,0.05,Regular
+P0176,Sports,Samsung,1642.56,717.22,0.05,Regular
+P0177,Toys,Apple,2701.07,1564.31,0.05,New
+P0178,Sports,Adidas,4005.28,1848.68,0.05,Regular
+P0179,Grocery,Noon,913.81,455.6,0.05,New
+P0180,Electronics,LG,3483.62,1529.3,0.05,Regular
+P0181,Home & Kitchen,Apple,2694.23,1089.7,0.05,Regular
+P0182,Grocery,Noon,1345.09,559.18,0.05,Regular
+P0183,Fashion,Lulu,304.23,154.73,0.05,Regular
+P0184,Toys,Zara,936.2,578.73,0.05,Regular
+P0185,Beauty,H&M,2623.36,1835.24,0.05,Regular
+P0186,Books,Carrefour,481.85,256.86,0.05,Regular
+P0187,Sports,Noon,643.34,377.83,0.05,Regular
+P0188,Sports,Puma,4028.51,2159.74,0.05,Regular
+P0189,Fashion,Lulu,507.66,336.74,0.05,Regular
+P0190,Grocery,Puma,1856.22,931.23,0.05,Regular
+P0191,Books,Lulu,430.34,258.0,0.05,Regular
+P0192,Home & Kitchen,Carrefour,3741.94,2430.51,0.05,New
+P0193,Fashion,Lulu,3005.18,1703.67,0.05,Regular
+P0194,Sports,Carrefour,538.93,323.14,0.05,Regular
+P0195,Electronics,LG,2451.64,1405.71,0.05,Regular
+P0196,Toys,Adidas,3439.1,1949.56,0.05,New
+P0197,Beauty,Noon,954.64,542.51,0.05,Regular
+P0198,Electronics,Noon,3766.34,1808.73,0.05,Regular
+P0199,Beauty,Sony,1454.09,644.13,0.05,Regular
+P0200,Fashion,Nike,3013.88,1288.52,0.05,Regular
+P0201,Books,Puma,1864.58,920.15,0.05,Regular
+P0202,Fashion,Samsung,672.32,278.96,0.05,New
+P0203,Toys,Carrefour,1746.06,915.38,0.05,Regular
+P0204,Fashion,Sony,1769.65,1068.06,0.05,Regular
+P0205,Beauty,Samsung,932.07,388.15,0.05,Regular
+P0206,Grocery,Nike,3106.64,1354.48,0.05,Regular
+P0207,Books,Nike,566.74,265.82,0.05,Regular
+P0208,Sports,Apple,1638.28,869.71,0.05,Regular
+P0209,Fashion,Sony,2353.04,1442.06,0.05,Regular
+P0210,Fashion,Puma,133.43,85.45,0.05,Regular
+P0211,Sports,Apple,1796.85,953.59,0.05,Regular
+P0212,Fashion,Puma,3532.1,1647.62,0.05,Regular
+P0213,Fashion,Zara,2582.9,1183.41,0.05,Regular
+P0214,Sports,Lulu,3882.89,1725.2,0.05,New
+P0215,Beauty,Adidas,744.0,467.04,0.05,New
+P0216,Toys,H&M,3067.78,1640.25,0.05,Regular
+P0217,Sports,Carrefour,1314.56,710.75,0.05,Regular
+P0218,Beauty,Noon,274.69,135.46,0.05,Regular
+P0219,Electronics,Sony,3376.79,2226.23,0.05,Regular
+P0220,Books,H&M,2371.32,1474.19,0.05,New
+P0221,Grocery,Sony,2470.02,1697.69,0.05,Regular
+P0222,Sports,Lulu,387.32,159.48,0.05,Regular
+P0223,Toys,Zara,2140.99,1095.88,0.05,Regular
+P0224,Books,Sony,2765.59,1629.67,0.05,Regular
+P0225,Sports,Apple,2281.85,1085.24,0.05,Regular
+P0226,Home & Kitchen,Sony,376.01,253.82,0.05,Regular
+P0227,Books,Nike,2430.16,1197.76,0.05,Regular
+P0228,Sports,Nike,2730.47,1697.35,0.05,Regular
+P0229,Fashion,Carrefour,2731.82,1107.67,0.05,Regular
+P0230,Grocery,Sony,3840.67,1797.29,0.05,New
+P0231,Fashion,LG,3427.71,2163.78,0.05,Regular
+P0232,Electronics,Carrefour,1397.06,613.75,0.05,Regular
+P0233,Home & Kitchen,Nike,3375.38,2169.4,0.05,Regular
+P0234,Toys,Samsung,1693.43,798.04,0.05,Regular
+P0235,Beauty,Lulu,3185.2,1502.62,0.05,Regular
+P0236,Toys,Adidas,1521.36,1057.85,0.05,Regular
+P0237,Beauty,Puma,2061.63,924.88,0.05,Regular
+P0238,Home & Kitchen,LG,258.72,132.3,0.05,Regular
+P0239,Fashion,LG,385.5,206.16,0.05,Regular
+P0240,Books,Apple,3835.65,2053.37,0.05,Regular
+P0241,Electronics,Puma,263.03,123.82,0.05,Regular
+P0242,Sports,Adidas,162.75,106.07,0.05,Regular
+P0243,Home & Kitchen,Nike,203.21,110.09,0.05,Regular
+P0244,Toys,H&M,2511.39,1018.87,0.05,Regular
+P0245,Home & Kitchen,Zara,3810.9,2008.25,0.05,Regular
+P0246,Grocery,LG,537.39,317.97,0.05,Regular
+P0247,Fashion,Apple,3396.75,1904.95,0.05,Regular
+P0248,Grocery,Lulu,624.31,364.87,0.05,Regular
+P0249,Books,Nike,2707.49,1874.66,0.05,New
+P0250,Electronics,Puma,3543.33,1828.59,0.05,Regular
+P0251,Electronics,Sony,3204.08,1986.15,0.05,Regular
+P0252,Sports,Nike,227.34,146.42,0.05,Regular
+P0253,Toys,Lulu,1964.12,865.11,0.05,Regular
+P0254,Toys,Samsung,1223.77,562.74,0.05,New
+P0255,Beauty,Zara,1642.9,890.48,0.05,New
+P0256,Grocery,LG,1477.9,975.03,0.05,Regular
+P0257,Fashion,Sony,1797.81,956.29,0.05,Regular
+P0258,Sports,Nike,2034.81,1378.16,0.05,Regular
+P0259,Fashion,Lulu,1748.0,1221.03,0.05,Regular
+P0260,Beauty,Sony,460.39,224.99,0.05,Regular
+P0261,Books,Nike,2809.06,1159.32,0.05,Regular
+P0262,Sports,Noon,4042.6,2805.6,0.05,Regular
+P0263,Fashion,Carrefour,2600.05,1664.89,0.05,Regular
+P0264,Electronics,Nike,3444.68,1830.68,0.05,New
+P0265,Grocery,Carrefour,1515.31,863.99,0.05,Regular
+P0266,Toys,Sony,1538.05,880.04,0.05,Regular
+P0267,Books,Sony,2648.24,1149.43,0.05,Regular
+P0268,Toys,Zara,1597.95,764.67,0.05,Regular
+P0269,Toys,Adidas,4035.46,2723.71,0.05,Regular
+P0270,Fashion,Nike,3461.31,2317.71,0.05,Regular
+P0271,Fashion,Carrefour,3920.24,2353.52,0.05,Regular
+P0272,Beauty,LG,3455.45,2343.48,0.05,Regular
+P0273,Sports,Zara,946.97,603.81,0.05,Regular
+P0274,Toys,Samsung,1493.59,806.87,0.05,Regular
+P0275,Home & Kitchen,Noon,3586.99,1863.25,0.05,Regular
+P0276,Toys,Zara,1693.18,969.3,0.05,New
+P0277,Sports,Carrefour,346.66,192.47,0.05,New
+P0278,Home & Kitchen,Nike,1780.47,741.79,0.05,New
+P0279,Home & Kitchen,LG,708.63,434.25,0.05,Regular
+P0280,Beauty,Apple,1052.42,594.88,0.05,New
+P0281,Beauty,Noon,2183.91,984.05,0.05,Regular
+P0282,Home & Kitchen,Nike,2684.93,1561.4,0.05,Regular
+P0283,Electronics,Samsung,374.89,236.67,0.05,Regular
+P0284,Grocery,Noon,1716.35,942.98,0.05,Regular
+P0285,Beauty,Carrefour,3876.6,2486.48,0.05,Regular
+P0286,Beauty,H&M,341.89,181.85,0.05,Regular
+P0287,Grocery,Sony,2476.64,1524.39,0.05,Regular
+P0288,Sports,Puma,573.06,325.78,0.05,Regular
+P0289,Toys,Apple,1119.89,480.48,0.05,Regular
+P0290,Books,Noon,1722.54,1155.3,0.05,Regular
+P0291,Sports,Adidas,3102.49,1720.07,0.05,Regular
+P0292,Beauty,H&M,142.71,78.72,0.05,Regular
+P0293,Grocery,Noon,1461.58,801.63,0.05,Regular
+P0294,Toys,LG,2196.76,1162.7,0.05,Regular
+P0295,Sports,Puma,1513.75,864.48,0.05,Regular
+P0296,Beauty,Apple,1595.4,901.33,0.05,Regular
+P0297,Fashion,Nike,3950.33,2522.16,0.05,Regular
+P0298,Sports,Nike,846.23,465.45,0.05,New
+P0299,Home & Kitchen,Lulu,1382.16,742.35,0.05,Regular
+P0300,Home & Kitchen,Sony,3775.47,1955.26,0.05,Regular

@@ -1,0 +1,11 @@
+campaign_id,start_date,end_date,city,channel,category,discount_pct,promo_budget_aed
+C001,2025-01-15,2025-01-22,Dubai,App,Electronics,25,50000
+C002,2025-01-15,2025-01-29,All,Web,Fashion,20,75000
+C003,2025-01-18,2025-01-25,Abu Dhabi,Marketplace,All,30,40000
+C004,2025-01-10,2025-01-20,Sharjah,All,Grocery,15,30000
+C005,2025-01-12,2025-01-26,All,App,Beauty,22,60000
+C006,2025-01-20,2025-02-03,Dubai,Web,Home & Kitchen,18,45000
+C007,2025-01-14,2025-01-28,All,Marketplace,Sports,28,55000
+C008,2025-01-16,2025-01-23,Abu Dhabi,App,All,20,70000
+C009,2025-01-19,2025-02-02,Sharjah,Web,Toys,25,35000
+C010,2025-01-11,2025-01-25,Dubai,All,Books,30,25000
