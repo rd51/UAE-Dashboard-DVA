@@ -1112,89 +1112,8 @@ def main():
         </p>
     </div>
     """, unsafe_allow_html=True)
-    
-    # Dataset Overview
-    with st.expander("📊 Dataset Overview", expanded=False):
-        col1, col2, col3, col4 = st.columns(4)
-        with col1:
-            st.metric("📦 Products", f"{len(products):,}", help="Total number of unique products")
-        with col2:
-            st.metric("🏪 Stores", f"{len(stores):,}", help="Total number of store locations")
-        with col3:
-            st.metric("🛍️ Transactions", f"{len(sales):,}", help="Total number of sales transactions")
-        with col4:
-            st.metric("📋 Inventory Records", f"{len(inventory):,}", help="Total inventory snapshot records")
-        
-        st.markdown("---")
-        col1, col2 = st.columns(2)
-        with col1:
-            st.markdown("**📅 Data Period**")
-            if 'order_time' in sales.columns:
-                sales['order_time'] = pd.to_datetime(sales['order_time'])
-                min_date = sales['order_time'].min().date()
-                max_date = sales['order_time'].max().date()
-                st.info(f"From **{min_date}** to **{max_date}**")
-            else:
-                st.info("Date information not available")
-        
-        with col2:
-            st.markdown("**📂 Data Source**")
-            source_label = "Pre-built Dataset" if data_source == "📁 Pre-Built Dataset" else "Custom Uploaded Dataset"
-            st.info(f"**{source_label}**")
-    
-    # Dashboard Configuration
-    with st.expander("⚙️ Dashboard Configuration", expanded=False):
-        st.markdown("##### Performance Thresholds & Display Options")
-        col1, col2 = st.columns(2)
-        
-        with col1:
-            st.markdown("**📊 Performance Thresholds**")
-            margin_threshold = st.slider(
-                "Gross Margin Target (%)", 
-                min_value=5, 
-                max_value=50, 
-                value=20, 
-                step=1,
-                help="Alert if margin falls below this threshold"
-            )
-            return_threshold = st.slider(
-                "Return Rate Limit (%)", 
-                min_value=1, 
-                max_value=15, 
-                value=5, 
-                step=1,
-                help="Alert if return rate exceeds this threshold"
-            )
-        
-        with col2:
-            st.markdown("**🎛️ Display Options**")
-            show_benchmarks = st.checkbox(
-                "📈 Show Performance Benchmarks", 
-                value=True, 
-                help="Display performance comparisons against targets"
-            )
-            auto_refresh = st.checkbox(
-                "🔄 Auto-refresh Data", 
-                value=False, 
-                help="Automatically refresh dashboard every 5 minutes"
-            )
-            
-            if auto_refresh:
-                st.info("ℹ️ **Auto-refresh enabled** • Dashboard will update every 5 minutes")
-        
-        # Store settings in session state
-        st.session_state.margin_threshold = margin_threshold
-        st.session_state.return_threshold = return_threshold
-        st.session_state.show_benchmarks = show_benchmarks
-    
-    # View Toggle - Immediately accessible
-    st.markdown("---")
-    view_mode = st.radio(
-        "**Select Dashboard View:**",
-        ["💼 Executive Suite", "⚙️ Operations Command Center"],
-        horizontal=True
-    )
-    st.markdown("---")
+    source_label = "Pre-built Dataset" if data_source == "📁 Pre-Built Dataset" else "Custom Uploaded Dataset"
+    view_mode = "💼 Executive Suite"
     
     # Calculate initial KPIs before Quick Stats section
     # This is calculated early so it can be used in Quick Stats and Performance Benchmarks
@@ -1224,9 +1143,68 @@ def main():
     
     # Sidebar
     with st.sidebar:
-        st.image("https://cdn-icons-png.flaticon.com/512/197/197633.png", width=60)
-        st.markdown("---")
         st.header("🎛️ Control Panel")
+
+        with st.expander("📊 Dataset Overview", expanded=False):
+            col1, col2 = st.columns(2)
+            with col1:
+                st.metric("📦 Products", f"{len(products):,}", help="Total number of unique products")
+                st.metric("🛍️ Transactions", f"{len(sales):,}", help="Total number of sales transactions")
+            with col2:
+                st.metric("🏪 Stores", f"{len(stores):,}", help="Total number of store locations")
+                st.metric("📋 Inventory", f"{len(inventory):,}", help="Total inventory snapshot records")
+
+            st.markdown("---")
+            st.markdown("**📅 Data Period**")
+            if 'order_time' in sales.columns:
+                sales['order_time'] = pd.to_datetime(sales['order_time'])
+                min_date = sales['order_time'].min().date()
+                max_date = sales['order_time'].max().date()
+                st.info(f"From **{min_date}** to **{max_date}**")
+            else:
+                st.info("Date information not available")
+
+            st.markdown("**📂 Data Source**")
+            st.info(f"**{source_label}**")
+
+        with st.expander("⚙️ Dashboard Configuration", expanded=False):
+            st.markdown("##### Performance Thresholds & Display Options")
+            margin_threshold = st.slider(
+                "Gross Margin Target (%)", 
+                min_value=5, 
+                max_value=50, 
+                value=20, 
+                step=1,
+                help="Alert if margin falls below this threshold"
+            )
+            return_threshold = st.slider(
+                "Return Rate Limit (%)", 
+                min_value=1, 
+                max_value=15, 
+                value=5, 
+                step=1,
+                help="Alert if return rate exceeds this threshold"
+            )
+
+            show_benchmarks = st.checkbox(
+                "📈 Show Performance Benchmarks", 
+                value=True, 
+                help="Display performance comparisons against targets"
+            )
+            auto_refresh = st.checkbox(
+                "🔄 Auto-refresh Data", 
+                value=False, 
+                help="Automatically refresh dashboard every 5 minutes"
+            )
+
+            if auto_refresh:
+                st.info("ℹ️ **Auto-refresh enabled** • Dashboard will update every 5 minutes")
+
+            st.session_state.margin_threshold = margin_threshold
+            st.session_state.return_threshold = return_threshold
+            st.session_state.show_benchmarks = show_benchmarks
+
+        st.markdown("---")
         
         # Quick Presets
         st.subheader("⚡ Quick Presets")
@@ -1375,7 +1353,7 @@ def main():
         # Keep the initial kpis if filtering fails
     
     # EXECUTIVE VIEW
-    if "Executive" in view_mode:
+    if True:
         st.markdown("""
         <div class="section-header">
             <h2 style="margin: 0; color: #0f172a;">💼 Executive Suite</h2>
@@ -1654,7 +1632,7 @@ def main():
             st.info("🚀 Run simulation to generate scenario comparisons")
     
     # MANAGER VIEW
-    else:
+    if True:
         st.header("⚙️ Operations Command Center")
         st.markdown("<p style='color: #888; font-size: 14px; margin: -15px 0 20px 0;'>Real-time operational metrics and risk management</p>", unsafe_allow_html=True)
         
